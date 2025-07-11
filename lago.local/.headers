@@ -1,0 +1,20 @@
+[
+  {
+    "applyTo": "env-config.js",
+    "headers": [
+      {
+        "name": "content-type",
+        "value": "application/javascript"
+      }
+    ]
+  },
+  {
+    "applyTo": "index.Dv52ZjyN.js",
+    "headers": [
+      {
+        "name": "content-type",
+        "value": "application/javascript"
+      }
+    ]
+  }
+]
